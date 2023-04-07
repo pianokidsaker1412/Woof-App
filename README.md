@@ -25,6 +25,16 @@ Pre-requisites
 -Lists
 -App architecture
 
+During this codelab, I will use TalkBack and Switch Access to test the accessibility of the Woof app.
+
+TalkBack allows users to have eyes free control of their devices.
+Switch Access allows users to navigate an app using switches instead of the touch screen.
+
+What I'll learn
+How to interact with an app using TalkBack.
+How to interact with an app using Switch Access instead of the touch screen.
+How to optimize your UI for better accessibility.
+
 Getting Started
 ---------------
 
